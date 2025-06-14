@@ -11,7 +11,7 @@ class APIService {
         }
         
         var request = URLRequest(url: url)
-        request.setValue("zUL4avHuwx8FbUMNDH2SXw==HQ5HjwnoUVF2E05n", forHTTPHeaderField: "X-Api-Key")
+        request.setValue("", forHTTPHeaderField: "X-Api-Key")
         
         let (data, _) = try await URLSession.shared.data(for: request)
         
