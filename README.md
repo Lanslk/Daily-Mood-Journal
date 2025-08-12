@@ -12,3 +12,5 @@ User Instructions
 5. Edit Entries: Tap on any past entry to update the mood, journal, or photo.
 6. Share: Long press on the saved entry to share the mood.
 7. Widget Usage: Add the app's widget to your home screen for quick mood selection and quote fetching.
+
+Demo: https://www.youtube.com/watch?v=nWi5RFwPDhU
